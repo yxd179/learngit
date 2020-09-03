@@ -5,3 +5,6 @@
 css/default.css,0\a\0a5a57bfb0435bff019597f556a8ed5811b9aefe
 =
 css/class.tif,a\0\a006f265ade32a0f5a5ed31c3b9c7e7b78968bfd
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
